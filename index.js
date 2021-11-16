@@ -5,7 +5,7 @@ let secondmax=(inp)=>
     let max=Math.max.apply(null,inp)
     console.log(uniq,"uniq")
     uniq.splice(uniq.indexOf(max),1)
-     max=Math.max.apply(null,inp)
+     max=Math.max.apply(null,uniq)
 
 console.log(max);
 }
