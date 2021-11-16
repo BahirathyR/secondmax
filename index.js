@@ -1,9 +1,9 @@
 let secondmax=(inp)=>
 {
     
-    var max=Math.max(null,inp)
-    inp.splice(inp.indexOf(max),2)
-        var max=Math.max.apply(null,inp)
+    let max=Math.max.apply(null,inp)
+    inp.splice(inp.indexOf(max),1)
+         max=Math.max.apply(null,inp)
 
 console.log(max);
 }

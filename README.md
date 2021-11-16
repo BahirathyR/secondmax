@@ -25,6 +25,7 @@ secondmax([10,20,80,50,150])
 
 sorting array
 
-secondmax([10,20,80,50,150]) or secondmax([10,20,50,50,50])
+secondmax([10,20,80,50,150]) or secondmax([10,20,50,50,50]) or secondMaxx([12,34,56,78,67,-90])
+
 
 
