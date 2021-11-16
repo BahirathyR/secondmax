@@ -1,6 +1,6 @@
 ## what is this?
 
-This is used to find second maximum in the array
+This is used to find second maximum and also remove duplicate in the array
 
 ## Installation
 
@@ -12,7 +12,7 @@ Then...
 import {secondmax} from 'secondmax'
 
 
-secondmax([10,20,80,50,150])
+secondmax([10,20,80,50,50,50]) //It is also delete duplicate entry and find second max
 
 
 ```
