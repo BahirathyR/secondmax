@@ -1,6 +1,6 @@
 {
   "name": "secondmax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is used to extract string only.",
   "main": "index.js",
   "scripts": {
